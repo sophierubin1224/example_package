@@ -12,7 +12,7 @@ The method add\_one\( \) takes any float and adds 1 to that number.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="input " type="number" required=true %}
+{% api-method-parameter name="num " type="number" required=true %}
 any float 
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
