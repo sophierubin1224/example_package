@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Example Package](README.md)
+* [add\_one\( \)](add_one.md)
 
