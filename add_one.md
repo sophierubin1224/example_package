@@ -1,4 +1,4 @@
-# add\_one\( \)
+# example.py
 
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
@@ -31,6 +31,11 @@ output = input + 1
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+```text
+def add_one(number):
+    return number + 1
+```
 
 
 

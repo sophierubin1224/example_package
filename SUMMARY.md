@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Example Package](README.md)
-* [add\_one\( \)](add_one.md)
+* [example.py](add_one.md)
 
