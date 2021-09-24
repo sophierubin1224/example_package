@@ -31,6 +31,3 @@ class Blotter:
         else:
             print('This is Not a Blotter')
             return False
-data = pd.read_csv('testdata.csv')
-df = Blotter(data)
-print(df.isBlotter())
